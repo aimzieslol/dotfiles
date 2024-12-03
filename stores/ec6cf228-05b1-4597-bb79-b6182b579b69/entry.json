@@ -1,0 +1,10 @@
+{
+  "uuid" : "ec6cf228-05b1-4597-bb79-b6182b579b69",
+  "name" : "UAP-AC-Pro-Gen2",
+  "categoryUuid" : "4f439168-5c27-4522-b3df-ad8e500d6fa1",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

@@ -59,7 +59,6 @@ You can sync with this repository in all XPipe application instances the same wa
         - [**bash**](stores/3d954b47-27a8-4ac3-926e-2b78657818fa)
         - [**dash**](stores/6a779378-7a60-42a0-a1aa-4c22156ce967)
         - [**zsh**](stores/3debc557-59c9-457d-b2f4-c57f6c2ec9d4)
-- [**bb (Copy)**](stores/c180e895-72d7-4c2e-b562-c6b8171f9ede)
 - [**deb12torrent**](stores/eb8ed849-34b1-4d6e-a08b-fd88999c57aa)
   - [**Shell Environments**](stores/6583959b-e2e5-3d42-86f2-8fc3b2a3f643)
     - [**bash**](stores/756f6a73-4a2f-46ee-95a0-ac75df30f8a5)

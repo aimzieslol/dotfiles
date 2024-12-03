@@ -1,0 +1,10 @@
+{
+  "uuid" : "cd701694-b4e5-4212-877a-4851cd637c4d",
+  "name" : "UAP-nanoHD-BZ",
+  "categoryUuid" : "4f439168-5c27-4522-b3df-ad8e500d6fa1",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

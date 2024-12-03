@@ -20,6 +20,8 @@ You can sync with this repository in all XPipe application instances the same wa
       - [**Services**](stores/f30808ba-1390-4b67-86e4-466cd34ea29e)
   - [**Shell Environments**](stores/4d044dd2-acb0-3566-9828-5d7864d583d5)
     - [**bash**](stores/131d444f-6340-43e2-a6e9-b280952ecf0f)
+    - [**dash**](stores/f3d8e4da-ec67-46b8-bc3f-e3c01b23e812)
+    - [**zsh**](stores/eb9a6bb2-157a-43f0-b5eb-3d03aef57484)
   - [**VNC**](stores/0cd6af7e-73d1-4e1c-a0b1-ecf791870a48)
 - [**bb**](stores/92e6a3fc-bb0e-4a2f-90bc-fa26eb9bb1c7)
   - [**Podman**](stores/bf43868a-a93f-4924-a80f-9591b4d84e7f)

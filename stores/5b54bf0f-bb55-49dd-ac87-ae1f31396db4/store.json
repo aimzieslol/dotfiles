@@ -1,0 +1,7 @@
+{
+  "type" : "lxd",
+  "cmd" : {
+    "storeId" : "409a47b2-e684-4bc8-9ef7-266d17231d04"
+  },
+  "containerName" : "caddy"
+}

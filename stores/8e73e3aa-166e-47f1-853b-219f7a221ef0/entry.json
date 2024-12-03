@@ -1,0 +1,10 @@
+{
+  "uuid" : "8e73e3aa-166e-47f1-853b-219f7a221ef0",
+  "name" : "nextcloud-aio-mastercontainer",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

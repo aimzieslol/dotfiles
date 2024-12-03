@@ -1,0 +1,10 @@
+{
+  "uuid" : "200d48c1-9929-4a1b-935a-913ed456207f",
+  "name" : "libvirt machines",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

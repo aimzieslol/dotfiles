@@ -1,8 +1,0 @@
-{
-  "uuid" : "b29a6e64-418b-456e-88c9-1a924d8e284c",
-  "name" : "plex",
-  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
-  "configuration" : {
-    "deletable" : true
-  }
-}

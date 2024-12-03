@@ -1,0 +1,10 @@
+{
+  "uuid" : "0a316c8a-16de-4375-b1f7-8256cfb99fa5",
+  "name" : "serene_wing",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

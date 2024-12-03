@@ -1,0 +1,7 @@
+{
+  "type" : "podman",
+  "cmd" : {
+    "storeId" : "ef1c3b64-94e8-4c97-b550-a78e6225e62f"
+  },
+  "containerName" : "serene_wing"
+}

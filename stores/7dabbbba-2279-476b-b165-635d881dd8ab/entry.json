@@ -1,0 +1,10 @@
+{
+  "uuid" : "7dabbbba-2279-476b-b165-635d881dd8ab",
+  "name" : "User domains",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

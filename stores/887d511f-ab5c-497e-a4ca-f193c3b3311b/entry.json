@@ -1,0 +1,10 @@
+{
+  "uuid" : "887d511f-ab5c-497e-a4ca-f193c3b3311b",
+  "name" : "audiobookshelf",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

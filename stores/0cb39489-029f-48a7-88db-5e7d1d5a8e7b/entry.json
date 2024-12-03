@@ -1,0 +1,10 @@
+{
+  "uuid" : "0cb39489-029f-48a7-88db-5e7d1d5a8e7b",
+  "name" : "elegant_mendeleev",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

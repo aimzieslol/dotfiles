@@ -1,0 +1,10 @@
+{
+  "uuid" : "2c926f28-24a0-4116-b0b1-c2a4e97e33c6",
+  "name" : "nextcloud-aio-domaincheck",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

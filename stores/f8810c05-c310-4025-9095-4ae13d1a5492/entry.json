@@ -2,6 +2,8 @@
   "uuid" : "f8810c05-c310-4025-9095-4ae13d1a5492",
   "name" : "Podman",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
   "configuration" : {
     "deletable" : true
   }

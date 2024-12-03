@@ -1,0 +1,10 @@
+{
+  "uuid" : "cc61670e-d639-4184-9832-e330f6b22164",
+  "name" : "scrutiny",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

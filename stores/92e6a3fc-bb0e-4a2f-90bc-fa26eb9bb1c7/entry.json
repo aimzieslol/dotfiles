@@ -1,0 +1,10 @@
+{
+  "uuid" : "92e6a3fc-bb0e-4a2f-90bc-fa26eb9bb1c7",
+  "name" : "bb",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

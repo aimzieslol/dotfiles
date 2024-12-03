@@ -1,0 +1,23 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "100.70.251.104",
+  "port" : 22,
+  "user" : "root",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "secret" : {
+        "type" : "vault",
+        "encryptedValue" : "f8JPaaQdf9yW8MJMrHvS0v946Gk12NJF7aUKsr1vMwV43qw="
+      }
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false
+}

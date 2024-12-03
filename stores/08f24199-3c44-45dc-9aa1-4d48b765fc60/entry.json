@@ -1,0 +1,10 @@
+{
+  "uuid" : "08f24199-3c44-45dc-9aa1-4d48b765fc60",
+  "name" : "plex",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

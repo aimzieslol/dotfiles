@@ -1,0 +1,27 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "100.95.156.158",
+  "port" : 22,
+  "user" : "root",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "secret" : {
+        "type" : "vault",
+        "encryptedValue" : "B2YD632bRCnufasmx58rHTsHT-KyWcCSsAwZaNpXpA7Axdo="
+      }
+    }
+  },
+  "identityStrategy" : {
+    "type" : "file",
+    "file" : "C:/Users/localadmin/.ssh/id_ed25519.pub",
+    "password" : {
+      "type" : "none"
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false
+}

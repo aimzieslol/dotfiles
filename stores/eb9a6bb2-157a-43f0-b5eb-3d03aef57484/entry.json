@@ -1,0 +1,10 @@
+{
+  "uuid" : "eb9a6bb2-157a-43f0-b5eb-3d03aef57484",
+  "name" : "zsh",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

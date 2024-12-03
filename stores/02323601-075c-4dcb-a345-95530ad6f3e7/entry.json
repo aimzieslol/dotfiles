@@ -1,0 +1,10 @@
+{
+  "uuid" : "02323601-075c-4dcb-a345-95530ad6f3e7",
+  "name" : "caddy",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

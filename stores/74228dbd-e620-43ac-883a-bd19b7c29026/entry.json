@@ -1,0 +1,10 @@
+{
+  "uuid" : "74228dbd-e620-43ac-883a-bd19b7c29026",
+  "name" : "jolly_dijkstra",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type" : "podman",
+  "cmd" : {
+    "storeId" : "bf43868a-a93f-4924-a80f-9591b4d84e7f"
+  },
+  "containerName" : "nextcloud-aio-domaincheck"
+}

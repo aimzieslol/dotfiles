@@ -8,6 +8,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 - **Connections**
   - [**Default**](categories/97458c07-75c0-4f9d-a06e-92d8cdf67c40)
+    - [**APs**](categories/4f439168-5c27-4522-b3df-ad8e500d6fa1)
 - **Scripts**
 
 ## Connection list
@@ -32,6 +33,14 @@ You can sync with this repository in all XPipe application instances the same wa
       - [**Services**](stores/bac4568d-add0-4c07-8b94-3acc86b29aff)
   - [**Shell Environments**](stores/42db7acf-1a58-360f-a939-90c821495648)
     - [**bash**](stores/a1a4fe87-5c5b-427a-8cf5-84a6c3213eb8)
+
+**All connections / Default / APs**
+
+- [**UAP-AC-Lite-BZ.6.6.77**](stores/9b6dcca9-252c-4212-9774-f59a7a3773a0)
+  - [**Shell environments**](stores/79d7cc20-bd76-396d-969b-9aaff251bd04)
+    - [**ash**](stores/0989e737-65a9-4a89-a079-d70a30b415ef)
+- [**UAP-AC-Pro-Gen2**](stores/ec6cf228-05b1-4597-bb79-b6182b579b69)
+- [**UAP-nanoHD-BZ**](stores/cd701694-b4e5-4212-877a-4851cd637c4d)
 
 
 ## Secret encryption

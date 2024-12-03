@@ -1,0 +1,10 @@
+{
+  "type" : "shellEnvironment",
+  "commands" : null,
+  "host" : {
+    "storeId" : "db73f4e1-be6e-4d77-b95f-4f21d6737022"
+  },
+  "shell" : "zsh",
+  "elevated" : false,
+  "scripts" : null
+}

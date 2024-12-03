@@ -15,7 +15,16 @@ You can sync with this repository in all XPipe application instances the same wa
 **All connections / Default**
 
 - [**bb**](stores/e124799c-7a66-485c-8a43-cd078670d0d5)
+  - [**libvirt machines**](stores/58b7111c-9877-4f4b-9abe-bf9cbf78da3a)
+    - [**User domains**](stores/7dabbbba-2279-476b-b165-635d881dd8ab)
+  - [**LXD containers**](stores/b92457cb-b2e0-4cba-95ad-d62a33c7e5b3)
   - [**Podman**](stores/329456cc-cfa3-4776-b5ac-4318c39f3ed6)
+    - [**elegant_mendeleev**](stores/0cb39489-029f-48a7-88db-5e7d1d5a8e7b)
+      - [**Services**](stores/24bb0355-eae8-433e-b024-bc2a46c9b91a)
+    - [**nextcloud-aio-domaincheck**](stores/2c926f28-24a0-4116-b0b1-c2a4e97e33c6)
+      - [**Services**](stores/d0f33836-43e1-4349-8afe-a265729207f9)
+    - [**nextcloud-aio-mastercontainer**](stores/8dda9a89-4a35-45f9-bdd8-1641db98b82d)
+      - [**Services**](stores/3a4b5e69-2349-425a-b918-3c65d8c4718f)
     - [**plex**](stores/b29a6e64-418b-456e-88c9-1a924d8e284c)
       - [**Services**](stores/f30808ba-1390-4b67-86e4-466cd34ea29e)
   - [**Shell Environments**](stores/4d044dd2-acb0-3566-9828-5d7864d583d5)

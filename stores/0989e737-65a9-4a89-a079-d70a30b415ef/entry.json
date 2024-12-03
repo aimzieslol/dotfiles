@@ -1,0 +1,10 @@
+{
+  "uuid" : "0989e737-65a9-4a89-a079-d70a30b415ef",
+  "name" : "ash",
+  "categoryUuid" : "4f439168-5c27-4522-b3df-ad8e500d6fa1",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

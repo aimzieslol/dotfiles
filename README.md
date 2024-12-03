@@ -8,7 +8,6 @@ You can sync with this repository in all XPipe application instances the same wa
 
 - **Connections**
   - [**Default**](categories/97458c07-75c0-4f9d-a06e-92d8cdf67c40)
-    - [**APs**](categories/4f439168-5c27-4522-b3df-ad8e500d6fa1)
 - **Scripts**
 
 ## Connection list
@@ -41,9 +40,6 @@ You can sync with this repository in all XPipe application instances the same wa
       - [**Services**](stores/717e0336-62e6-4ddb-8de4-942f450f34cf)
   - [**Shell Environments**](stores/a0c2aa1d-55a1-3cb5-b5da-45e932de10a4)
     - [**bash**](stores/d093405e-3302-4968-b54f-c28cdfc3d7b6)
-
-**All connections / Default / APs**
-
 - [**UAP-AC-Lite-BZ.6.6.77**](stores/9b6dcca9-252c-4212-9774-f59a7a3773a0)
   - [**Shell environments**](stores/79d7cc20-bd76-396d-969b-9aaff251bd04)
     - [**ash**](stores/0989e737-65a9-4a89-a079-d70a30b415ef)

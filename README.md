@@ -15,6 +15,12 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / Default**
 
+- [**bb**](stores/e124799c-7a66-485c-8a43-cd078670d0d5)
+  - [**Podman**](stores/329456cc-cfa3-4776-b5ac-4318c39f3ed6)
+    - [**plex**](stores/b29a6e64-418b-456e-88c9-1a924d8e284c)
+      - [**Services**](stores/f30808ba-1390-4b67-86e4-466cd34ea29e)
+  - [**Shell Environments**](stores/4d044dd2-acb0-3566-9828-5d7864d583d5)
+    - [**bash**](stores/131d444f-6340-43e2-a6e9-b280952ecf0f)
 - [**bb**](stores/92e6a3fc-bb0e-4a2f-90bc-fa26eb9bb1c7)
   - [**Podman**](stores/bf43868a-a93f-4924-a80f-9591b4d84e7f)
     - [**plex**](stores/f10513b5-7cf9-440b-a408-56700f59008e)
@@ -33,6 +39,14 @@ You can sync with this repository in all XPipe application instances the same wa
       - [**Services**](stores/bac4568d-add0-4c07-8b94-3acc86b29aff)
   - [**Shell Environments**](stores/42db7acf-1a58-360f-a939-90c821495648)
     - [**bash**](stores/a1a4fe87-5c5b-427a-8cf5-84a6c3213eb8)
+- [**eden**](stores/26a3064b-0089-4123-b5e3-4ee16324768d)
+  - [**Podman**](stores/f8810c05-c310-4025-9095-4ae13d1a5492)
+    - [**jolly_dijkstra**](stores/e440680d-60de-41e0-8c5d-5b0977ac2d74)
+      - [**Services**](stores/0c7595ef-0aea-41a9-bbbe-16cbc8f45c27)
+    - [**serene_wing**](stores/bf5f8be0-c36a-48c7-bba1-752044863043)
+      - [**Services**](stores/717e0336-62e6-4ddb-8de4-942f450f34cf)
+  - [**Shell Environments**](stores/a0c2aa1d-55a1-3cb5-b5da-45e932de10a4)
+    - [**bash**](stores/d093405e-3302-4968-b54f-c28cdfc3d7b6)
 
 **All connections / Default / APs**
 

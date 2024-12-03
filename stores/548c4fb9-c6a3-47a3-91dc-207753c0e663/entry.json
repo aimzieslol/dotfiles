@@ -1,0 +1,10 @@
+{
+  "uuid" : "548c4fb9-c6a3-47a3-91dc-207753c0e663",
+  "name" : "unifi",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

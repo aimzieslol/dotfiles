@@ -7,16 +7,14 @@
   "port" : 22,
   "user" : "root",
   "password" : {
-    "type" : "inPlace",
-    "value" : {
-      "secret" : {
-        "type" : "vault",
-        "encryptedValue" : "Vzs3SQ4FHu5TnA1QWlivf+O8YGLpQoBtQuMhijLVrDshM2U="
-      }
-    }
+    "type" : "none"
   },
   "identityStrategy" : {
-    "type" : "none"
+    "type" : "file",
+    "file" : "C:/Users/aimzi/.ssh/id_ed25519.pub",
+    "password" : {
+      "type" : "none"
+    }
   },
   "dontInteractWithSystem" : false,
   "forwardX11" : false

@@ -1,0 +1,10 @@
+{
+  "uuid" : "3a4b5e69-2349-425a-b918-3c65d8c4718f",
+  "name" : "Services",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

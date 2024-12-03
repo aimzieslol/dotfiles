@@ -1,0 +1,10 @@
+{
+  "uuid" : "f355912c-a1de-45b3-bee5-c1db35e642a0",
+  "name" : "LXD containers",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

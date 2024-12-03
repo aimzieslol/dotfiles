@@ -1,0 +1,7 @@
+{
+  "type" : "podman",
+  "cmd" : {
+    "storeId" : "f8810c05-c310-4025-9095-4ae13d1a5492"
+  },
+  "containerName" : "plex"
+}

@@ -1,0 +1,23 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "192.168.0.223",
+  "port" : 22,
+  "user" : "aimzieslol",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "secret" : {
+        "type" : "vault",
+        "encryptedValue" : "MUfuNdOlC3n-LCwEbYUZhixPbbVXxKVo1rmUiV-H0crhleuV5g-NhOih8h4="
+      }
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false
+}

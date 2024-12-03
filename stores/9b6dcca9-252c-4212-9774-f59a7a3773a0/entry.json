@@ -1,0 +1,10 @@
+{
+  "uuid" : "9b6dcca9-252c-4212-9774-f59a7a3773a0",
+  "name" : "UAP-AC-Lite-BZ.6.6.77",
+  "categoryUuid" : "4f439168-5c27-4522-b3df-ad8e500d6fa1",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

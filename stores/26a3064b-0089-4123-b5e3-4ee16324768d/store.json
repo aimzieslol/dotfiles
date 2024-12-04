@@ -11,7 +11,7 @@
   },
   "identityStrategy" : {
     "type" : "file",
-    "file" : "C:/Users/aimzi/.ssh/id_ed25519",
+    "file" : "%USERPROFILE%/.ssh/id_ed25519",
     "password" : {
       "type" : "none"
     }

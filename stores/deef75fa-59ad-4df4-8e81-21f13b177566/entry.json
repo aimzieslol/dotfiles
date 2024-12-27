@@ -1,0 +1,10 @@
+{
+  "uuid" : "deef75fa-59ad-4df4-8e81-21f13b177566",
+  "name" : "dead-laptop",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

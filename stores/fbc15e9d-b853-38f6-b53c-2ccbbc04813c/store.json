@@ -1,0 +1,6 @@
+{
+  "type" : "shellEnvironmentGroup",
+  "parent" : {
+    "storeId" : "deef75fa-59ad-4df4-8e81-21f13b177566"
+  }
+}

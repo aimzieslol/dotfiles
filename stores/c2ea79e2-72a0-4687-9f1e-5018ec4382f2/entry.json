@@ -1,0 +1,10 @@
+{
+  "uuid" : "c2ea79e2-72a0-4687-9f1e-5018ec4382f2",
+  "name" : "festive_solomon",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "uuid" : "7ee46cc4-3fa7-4e75-a98e-82201d426d3c",
+  "name" : "debian-cloud-trixie",
+  "categoryUuid" : "69aa5040-28dc-451e-b4ff-1192ce5e1e3c",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

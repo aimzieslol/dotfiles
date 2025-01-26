@@ -1,0 +1,15 @@
+{
+  "type" : "syncedIdentity",
+  "username" : "root",
+  "password" : {
+    "encryptedToken" : {
+      "token" : "bI6trfsN0W5zS0jHnNldK+4WvOJoXl5-sJSWgxVDhiWe"
+    },
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "Pi768BpKfuZYNbNAy6FSvClqQrryERFudDzWfJloapv+XB2NCxbKx3h0L-tDtT4rRVKGWVgs56bKg1tEEEyNyUV1Djp0iJeou2-Bn0UErIK0Nqf3P+2kRGlHUCrbwcqJxOkp61griwJM0hdFXVc52ECpx-MEEZQh6PgiKuxEGKfCt6S+J-9B1HHNBn6Y6WRs4qktesaK8mBei+IF8PG2+tEGpJKTweN+lW22l894yg=="
+    }
+  },
+  "sshIdentity" : null,
+  "perUser" : false
+}

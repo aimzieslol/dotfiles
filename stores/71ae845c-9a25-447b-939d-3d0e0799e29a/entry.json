@@ -1,0 +1,10 @@
+{
+  "uuid" : "71ae845c-9a25-447b-939d-3d0e0799e29a",
+  "name" : "Incus containers",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

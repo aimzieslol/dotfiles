@@ -1,0 +1,35 @@
+{
+  "type" : "vnc",
+  "tunnelHost" : {
+    "storeId" : "e124799c-7a66-485c-8a43-cd078670d0d5"
+  },
+  "system" : {
+    "storeId" : "e124799c-7a66-485c-8a43-cd078670d0d5"
+  },
+  "port" : 5901,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : null,
+      "password" : {
+        "encryptedToken" : {
+          "token" : "bI6trfsN0W5zS0jHnNldK+4WvOJoXl5-sJSWgxVDhiWe"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "T5eJu0VJWVyMi9j6SKbeckli0v4l+plZ-NbRKfm9W44g2Eyd5bWoVhLPTdkIyxTsTxAf"
+        }
+      },
+      "sshIdentity" : {
+        "encryptedToken" : {
+          "token" : "bI6trfsN0W5zS0jHnNldK+4WvOJoXl5-sJSWgxVDhiWe"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "rCxLvmjguSppvmIw3owMhvpoV0gmekU1A52Kjzg8UDHS2oOfjIbN3VnJ1iEGiOPkKlOf"
+        }
+      }
+    }
+  }
+}

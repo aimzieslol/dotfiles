@@ -86,6 +86,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**zsh**](stores/8fe2b4db-28b0-4a45-abd2-24ea62cd14e4)
 - [**eden**](stores/26a3064b-0089-4123-b5e3-4ee16324768d)
   - [**libvirt machines**](stores/409f01ac-56c7-4602-a938-40b7d5df75ab)
+    - [**User domains**](stores/d4035b27-bda1-4ca6-bc06-3655ed7e61e0)
   - [**LXD containers**](stores/409a47b2-e684-4bc8-9ef7-266d17231d04)
     - [**audiobookshelf**](stores/0d2f05df-f397-4e12-967e-3a0f9cabf94e)
     - [**caddy**](stores/5b54bf0f-bb55-49dd-ac87-ae1f31396db4)

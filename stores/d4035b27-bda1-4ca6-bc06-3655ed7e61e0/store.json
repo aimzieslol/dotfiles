@@ -1,0 +1,7 @@
+{
+  "type" : "virshHypervisor",
+  "install" : {
+    "storeId" : "409f01ac-56c7-4602-a938-40b7d5df75ab"
+  },
+  "uri" : "qemu:///session"
+}

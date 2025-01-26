@@ -1,0 +1,8 @@
+{
+  "type" : "incusContainer",
+  "install" : {
+    "storeId" : "71ae845c-9a25-447b-939d-3d0e0799e29a"
+  },
+  "containerName" : "samba",
+  "identity" : null
+}

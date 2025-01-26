@@ -111,7 +111,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All identities / Synced**
 
-empty
+- [**debian-cloud-trixie**](stores/7ee46cc4-3fa7-4e75-a98e-82201d426d3c)
 
 
 ## Secret encryption

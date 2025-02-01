@@ -3,21 +3,34 @@
   "proxy" : {
     "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
   },
-  "host" : "192.168.0.89",
+  "host" : "192.168.0.213",
   "port" : 22,
-  "user" : "root",
-  "password" : {
+  "identity" : {
     "type" : "inPlace",
-    "value" : {
-      "secret" : {
-        "type" : "vault",
-        "encryptedValue" : "0aET7pMQmMqAtWlK14InUlga4m5EVruC8qZp2ooanePqdw=="
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "root",
+      "password" : {
+        "encryptedToken" : {
+          "token" : "MCsMRovRARw1ezsOTbsmgbwDonGdA9KV6tIg+Zai57Wj"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "kZE-OG4z1pnZQx4SA9vFjRzVCbVISNwVvUUAcROyVgSLkx9O8D565mHA1ZDJQODdM+2mByQ5bHPiUHcojNFa9AjtZ2y6cZoY7quKehtBPcVedFRNSBRfh93StAvujYzzelfV06YrBEA9F8cYhE9do4x1K0H99EVJvJi+J0tDbdrPjmwejoObQKvHj41K16rGJTqVbX9amz53hiD+0pvxl0DpQFz4wriKS7lTe2yqxg=="
+        }
+      },
+      "sshIdentity" : {
+        "encryptedToken" : {
+          "token" : "MCsMRovRARw1ezsOTbsmgbwDonGdA9KV6tIg+Zai57Wj"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "HfXTyPRZht5Lff6rWrhm2LQpRxnOhV88yiIkklQcuNjLEZWpPEDeNVXcHZyb5LFOvSJZ"
+        }
       }
     }
   },
-  "identityStrategy" : {
-    "type" : "none"
-  },
   "dontInteractWithSystem" : false,
-  "forwardX11" : false
+  "forwardX11" : false,
+  "additionalOptions" : null
 }

@@ -3,7 +3,7 @@
   "proxy" : {
     "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
   },
-  "host" : "192.168.0.213",
+  "host" : "192.168.0.89",
   "port" : 22,
   "identity" : {
     "type" : "inPlace",
@@ -12,20 +12,20 @@
       "username" : "root",
       "password" : {
         "encryptedToken" : {
-          "token" : "MCsMRovRARw1ezsOTbsmgbwDonGdA9KV6tIg+Zai57Wj"
+          "token" : "SUPop22ka9Tvur56VioygWmPqok7wu5Xw-+VlFfDRSN0"
         },
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "kZE-OG4z1pnZQx4SA9vFjRzVCbVISNwVvUUAcROyVgSLkx9O8D565mHA1ZDJQODdM+2mByQ5bHPiUHcojNFa9AjtZ2y6cZoY7quKehtBPcVedFRNSBRfh93StAvujYzzelfV06YrBEA9F8cYhE9do4x1K0H99EVJvJi+J0tDbdrPjmwejoObQKvHj41K16rGJTqVbX9amz53hiD+0pvxl0DpQFz4wriKS7lTe2yqxg=="
+          "encryptedValue" : "6WdGqCO9Mz3AQVlOXTqBj5FAfzvvJhSOdxF0+cgIVrT4-CFRYBNblYZsKzTKohggRVdMSzU88dcoR8L2MNCvgAFwAJpsi9JtFxOXWK6gGJZLfSamrLN9SoNczq8z9Wr6bq284BMMlVd9gRR26MQLVWJmueSNxmZgzN-XNBYIus5xe-zrg96ftYSj1PrzIVibglacL2g5ZASE1qrPu-tXpexLYkDZPCnIQiPsp5qYgA=="
         }
       },
       "sshIdentity" : {
         "encryptedToken" : {
-          "token" : "MCsMRovRARw1ezsOTbsmgbwDonGdA9KV6tIg+Zai57Wj"
+          "token" : "SUPop22ka9Tvur56VioygWmPqok7wu5Xw-+VlFfDRSN0"
         },
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "HfXTyPRZht5Lff6rWrhm2LQpRxnOhV88yiIkklQcuNjLEZWpPEDeNVXcHZyb5LFOvSJZ"
+          "encryptedValue" : "aP7m5J-HxPIsVMYnftfwbincUSaAdpRKcoOU1adDQU0gLK54JfgO8slR5zDuCcnDp5g+"
         }
       }
     }

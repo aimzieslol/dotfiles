@@ -1,0 +1,14 @@
+{
+  "type" : "virshDomain",
+  "customIp" : null,
+  "port" : 22,
+  "user" : null,
+  "password" : null,
+  "identity" : {
+    "type" : "none"
+  },
+  "hypervisor" : {
+    "storeId" : "d4035b27-bda1-4ca6-bc06-3655ed7e61e0"
+  },
+  "name" : "popos"
+}

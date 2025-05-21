@@ -1,0 +1,10 @@
+{
+  "uuid" : "c0e8958b-621a-493a-bbca-3bf15e854553",
+  "name" : "popos",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

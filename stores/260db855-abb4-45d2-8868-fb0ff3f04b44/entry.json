@@ -1,0 +1,10 @@
+{
+  "uuid" : "260db855-abb4-45d2-8868-fb0ff3f04b44",
+  "name" : "File manager",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

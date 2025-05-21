@@ -1,0 +1,8 @@
+{
+  "type" : "desktopApplication",
+  "desktop" : {
+    "storeId" : "fea8f41c-2fc8-43e2-ab24-231c583c6f87"
+  },
+  "path" : "xdg-open",
+  "arguments" : "/"
+}

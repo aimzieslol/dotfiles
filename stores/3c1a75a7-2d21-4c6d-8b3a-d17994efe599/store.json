@@ -1,0 +1,11 @@
+{
+  "type" : "vnc",
+  "tunnelHost" : {
+    "storeId" : "e124799c-7a66-485c-8a43-cd078670d0d5"
+  },
+  "system" : {
+    "storeId" : "e124799c-7a66-485c-8a43-cd078670d0d5"
+  },
+  "port" : 5906,
+  "identity" : null
+}

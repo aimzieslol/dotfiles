@@ -1,0 +1,14 @@
+{
+  "type" : "virshDomain",
+  "customIp" : null,
+  "port" : 22,
+  "user" : null,
+  "password" : null,
+  "identity" : {
+    "type" : "none"
+  },
+  "hypervisor" : {
+    "storeId" : "7dabbbba-2279-476b-b165-635d881dd8ab"
+  },
+  "name" : "deb12torrent"
+}

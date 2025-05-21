@@ -1,0 +1,10 @@
+{
+  "uuid" : "76bcb986-c608-4e2e-a274-aa8c67d4ee39",
+  "name" : "deb12torrent",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

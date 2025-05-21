@@ -1,0 +1,10 @@
+{
+  "uuid" : "0f999791-028f-4113-9986-86a3187e08ad",
+  "name" : "alpinelinux3.20-2024-9-6",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

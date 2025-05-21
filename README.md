@@ -21,6 +21,9 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**samba**](stores/2eabd0ac-3e15-46da-9781-627742af1d91)
   - [**libvirt machines**](stores/58b7111c-9877-4f4b-9abe-bf9cbf78da3a)
     - [**User domains**](stores/7dabbbba-2279-476b-b165-635d881dd8ab)
+      - [**alpinelinux3.20-2024-9-6**](stores/0f999791-028f-4113-9986-86a3187e08ad)
+      - [**deb12torrent**](stores/76bcb986-c608-4e2e-a274-aa8c67d4ee39)
+      - [**win11**](stores/de247abe-baa3-40d5-bbc9-b086c4beed72)
   - [**LXD containers**](stores/b92457cb-b2e0-4cba-95ad-d62a33c7e5b3)
   - [**Podman**](stores/329456cc-cfa3-4776-b5ac-4318c39f3ed6)
     - [**festive_solomon**](stores/c2ea79e2-72a0-4687-9f1e-5018ec4382f2)
@@ -32,8 +35,12 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**bash**](stores/131d444f-6340-43e2-a6e9-b280952ecf0f)
     - [**dash**](stores/f3d8e4da-ec67-46b8-bc3f-e3c01b23e812)
     - [**zsh**](stores/eb9a6bb2-157a-43f0-b5eb-3d03aef57484)
+  - [**VNC**](stores/fea8f41c-2fc8-43e2-ab24-231c583c6f87)
+    - [**File manager**](stores/dad1a16a-dd08-46b2-a10b-9f67d2a502f7)
   - [**VNC**](stores/8816a48b-002b-4121-917a-23918ab0a6ae)
     - [**File manager**](stores/21cc22a8-7c8b-4e3b-9ffe-3f1a53c81775)
+  - [**VNC**](stores/3c1a75a7-2d21-4c6d-8b3a-d17994efe599)
+    - [**File manager**](stores/260db855-abb4-45d2-8868-fb0ff3f04b44)
   - [**VNC**](stores/0cd6af7e-73d1-4e1c-a0b1-ecf791870a48)
 - [**bb**](stores/92e6a3fc-bb0e-4a2f-90bc-fa26eb9bb1c7)
   - [**Podman**](stores/bf43868a-a93f-4924-a80f-9591b4d84e7f)
@@ -88,6 +95,8 @@ You can sync with this repository in all XPipe application instances the same wa
 - [**eden**](stores/26a3064b-0089-4123-b5e3-4ee16324768d)
   - [**libvirt machines**](stores/409f01ac-56c7-4602-a938-40b7d5df75ab)
     - [**User domains**](stores/d4035b27-bda1-4ca6-bc06-3655ed7e61e0)
+      - [**cachyos**](stores/295c8f50-637d-4167-ae0b-defbd7521cf6)
+      - [**popos**](stores/c0e8958b-621a-493a-bbca-3bf15e854553)
   - [**LXD containers**](stores/409a47b2-e684-4bc8-9ef7-266d17231d04)
     - [**audiobookshelf**](stores/0d2f05df-f397-4e12-967e-3a0f9cabf94e)
     - [**caddy**](stores/5b54bf0f-bb55-49dd-ac87-ae1f31396db4)
@@ -121,11 +130,11 @@ You have the option to fetch any sensitive information like passwords from outsi
 In case you choose to store passwords and other secrets within XPipe, all sensitive information is encrypted when it is saved using AES with either:
 
 - A dynamically generated key file `vaultkey` (The data can then only be decrypted with that file present)
-- A custom passphrase that can be set for your user in the settings menu, combined with the vaultkey file (This option can only as secure as the password you choose)
+- A custom passphrase that can be set for your user in the vault settings menu (This option can only as secure as the password you choose)
 
 By default, general connection data is not encrypted, only secrets are.
 So things like hostnames and usernames are stored without encryption, which is in line with many other tools.
-There is an available vault setting in the settings menu to encrypt all connection data if you want to do that.
+There is an available setting in the vault settings menu to encrypt all connection data if you want to do that.
 
 ## Cloning the repository on other systems
 
@@ -150,13 +159,14 @@ Some modern git clients also take care of storing credentials automatically.
 
 ### Adding connections to the repository
 
-By default, no categories are set to shared so that you have explicit control on what connections to commit.
+By default, no connection categories are set to sync so that you have explicit control on what connections to commit.
 
-To have your connections of a category put inside your git repository,
-you either need to right-click the category or click on the `⚙️` icon when hovering over the category
-in your `Connections` tab under the category overview on the left side.
-Then click on `Add to git repository` to sync the category and connections to your git repository.
-This will add all shareable connections in that category to the git repository.
+To have your connections of a category put inside your git repository, you first need to change its sync configuration.
+In your `Connections` tab under the category overview on the left side, you can open the category configuration menu either by right-clicking the category or click on the `⚙️` icon when hovering over the category, and then clicking on the `🔧` configure button.
+
+Then, set the `Sync with git repository` value to `Yes` to sync the category and connections to your git repository.
+This will add all syncable connections in that category to the git repository.
+The sync settings for a category are inherited by default from its parent if not explicitly set.
 
 ### Local connections are not synced
 

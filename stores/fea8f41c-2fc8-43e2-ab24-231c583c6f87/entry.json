@@ -1,0 +1,10 @@
+{
+  "uuid" : "fea8f41c-2fc8-43e2-ab24-231c583c6f87",
+  "name" : "VNC",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
